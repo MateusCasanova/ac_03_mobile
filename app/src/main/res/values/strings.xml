@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LMSApp5</string>
+    <string name="txt_msgLogin">Mensagem de login</string>
+    <string name="titulo_informar_pais">Informar o Nome do País</string>
+    <string name="titulo_parametro">Parâmetro:</string>
+    <string name="titulo_paises">PAÍSES</string>
+    <string name="titulo_informar_numero">Informar um Número:</string>
+    <string name="btn_parametro">PARÂMETRO</string>
+    <string name="btn_resultado">RESULTADO</string>
+    <string name="activity_parametro">Parâmetro Recebido:</string>
+    <string name="campo_parametro">Parâmetro:</string>
+    <string name="btn_sair">SAIR</string>
+    <string name="txt_titUsuario">Usuário:</string>
+    <string name="txt_camUsuario">Digite o nome de usuário</string>
+    <string name="txt_titPassword">Senha:</string>
+    <string name="txt_camPassword">Digite a senha</string>
+    <string name="txt_btnLogin">Entrar</string>
+</resources>
